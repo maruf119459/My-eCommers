@@ -1,6 +1,8 @@
 
 
-## 🏗 Get started
+## Get started
+Home Page View:
+<img src="Screenshot 2024-10-27 064443.jpg" width="400">
 
 1. Clone the repository:
 

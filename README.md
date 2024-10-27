@@ -1,8 +1,8 @@
 
 
 ## Get started
-Home Page View:
-<img src="Screenshot 2024-10-27 064443.jpg" width="400">
+# Home Page View:<br>
+<img src="Screenshot 2024-10-27 064443.jpg" width="800" hight="600">
 
 1. Clone the repository:
 
